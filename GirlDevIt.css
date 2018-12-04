@@ -1,0 +1,45 @@
+/*
+*Maura Mullen
+*December 3
+*Girl Develop It
+*/
+/* The universal selector*/
+* {
+}
+/*Body attributes here*/
+body{
+    width: 80%;
+    background-color: pink;
+      
+}
+
+header{
+    background:#ff6666;
+    text-align: center;
+}
+
+h1{
+    font-family: Apple Chancery, Arial, serif;
+}
+
+h2{
+    font-family: Apple Chancery, Arial, serif;
+}
+
+#GirlsWithLaptops {float: right;
+width: 300px;
+    height: 200px;}
+
+#NotBoyfriendPC {float: right;
+width: 300px;
+    height: 200px;}
+
+
+a:hover, a:focus {color: deeppink }
+
+.zoom:hover {
+    transform: scale(1.5);}
+    
+    footer{font-family: serif, Arial, sans-serif; 
+}
+    
